@@ -68,13 +68,13 @@
 <script crossorigin="anonymous" defer="defer" type="application/javascript" src="https://github.githubassets.com/assets/diffs-b77240d2f242.js"></script>
   
 
-  <title>Airline-Price-Prediction/README.md at main · andriyatiwary/Airline-Price-Prediction</title>
+  <title>Airline-Price-Prediction/Data_Train.xlsx at main · andriyatiwary/Airline-Price-Prediction</title>
 
 
 
     
 
-  <meta name="request-id" content="E4E8:2907:505469:A9AA1E:63C3AC05" data-turbo-transient="true" /><meta name="html-safe-nonce" content="ca6f4e80dbc79c7eda17e2b7414aecc679ec300dc6d985c663c6f59e82ee6d5d" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9hbmRyaXlhdGl3YXJ5L0FpcmxpbmUtUHJpY2UtUHJlZGljdGlvbiIsInJlcXVlc3RfaWQiOiJFNEU4OjI5MDc6NTA1NDY5OkE5QUExRTo2M0MzQUMwNSIsInZpc2l0b3JfaWQiOiI4Mjc2NjUwNTk1MjQzNjczMTY4IiwicmVnaW9uX2VkZ2UiOiJjZW50cmFsaW5kaWEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="434a546201512f34aa855f27bf8169edee552b360cc365e30edb0a7634687215" data-turbo-transient="true" />
+  <meta name="request-id" content="E4E8:2907:50541C:A9A93C:63C3ABEE" data-turbo-transient="true" /><meta name="html-safe-nonce" content="ca6f4e80dbc79c7eda17e2b7414aecc679ec300dc6d985c663c6f59e82ee6d5d" data-turbo-transient="true" /><meta name="visitor-payload" content="eyJyZWZlcnJlciI6Imh0dHBzOi8vZ2l0aHViLmNvbS9hbmRyaXlhdGl3YXJ5L0FpcmxpbmUtUHJpY2UtUHJlZGljdGlvbiIsInJlcXVlc3RfaWQiOiJFNEU4OjI5MDc6NTA1NDFDOkE5QTkzQzo2M0MzQUJFRSIsInZpc2l0b3JfaWQiOiI4Mjc2NjUwNTk1MjQzNjczMTY4IiwicmVnaW9uX2VkZ2UiOiJjZW50cmFsaW5kaWEiLCJyZWdpb25fcmVuZGVyIjoiaWFkIn0=" data-turbo-transient="true" /><meta name="visitor-hmac" content="05f981e414ab48fd53837616e9239b8eab2dce15c25fbdfbbd4b9a3a43523688" data-turbo-transient="true" />
 
 
     <meta name="hovercard-subject-tag" content="repository:359194688" data-turbo-transient>
@@ -113,11 +113,11 @@
     <link rel="fluid-icon" href="https://github.com/fluidicon.png" title="GitHub">
     <meta property="fb:app_id" content="1401488693436528">
     <meta name="apple-itunes-app" content="app-id=1477376905" />
-      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/52c0453d87a2d846f7a62c5f6f4e37314371d54637047914c70138bf37a9adc7/andriyatiwary/Airline-Price-Prediction" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Airline-Price-Prediction/README.md at main · andriyatiwary/Airline-Price-Prediction" /><meta name="twitter:description" content="Contribute to andriyatiwary/Airline-Price-Prediction development by creating an account on GitHub." />
-      <meta property="og:image" content="https://opengraph.githubassets.com/52c0453d87a2d846f7a62c5f6f4e37314371d54637047914c70138bf37a9adc7/andriyatiwary/Airline-Price-Prediction" /><meta property="og:image:alt" content="Contribute to andriyatiwary/Airline-Price-Prediction development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Airline-Price-Prediction/README.md at main · andriyatiwary/Airline-Price-Prediction" /><meta property="og:url" content="https://github.com/andriyatiwary/Airline-Price-Prediction" /><meta property="og:description" content="Contribute to andriyatiwary/Airline-Price-Prediction development by creating an account on GitHub." />
+      <meta name="twitter:image:src" content="https://opengraph.githubassets.com/52c0453d87a2d846f7a62c5f6f4e37314371d54637047914c70138bf37a9adc7/andriyatiwary/Airline-Price-Prediction" /><meta name="twitter:site" content="@github" /><meta name="twitter:card" content="summary_large_image" /><meta name="twitter:title" content="Airline-Price-Prediction/Data_Train.xlsx at main · andriyatiwary/Airline-Price-Prediction" /><meta name="twitter:description" content="Contribute to andriyatiwary/Airline-Price-Prediction development by creating an account on GitHub." />
+      <meta property="og:image" content="https://opengraph.githubassets.com/52c0453d87a2d846f7a62c5f6f4e37314371d54637047914c70138bf37a9adc7/andriyatiwary/Airline-Price-Prediction" /><meta property="og:image:alt" content="Contribute to andriyatiwary/Airline-Price-Prediction development by creating an account on GitHub." /><meta property="og:image:width" content="1200" /><meta property="og:image:height" content="600" /><meta property="og:site_name" content="GitHub" /><meta property="og:type" content="object" /><meta property="og:title" content="Airline-Price-Prediction/Data_Train.xlsx at main · andriyatiwary/Airline-Price-Prediction" /><meta property="og:url" content="https://github.com/andriyatiwary/Airline-Price-Prediction" /><meta property="og:description" content="Contribute to andriyatiwary/Airline-Price-Prediction development by creating an account on GitHub." />
       
     <link rel="assets" href="https://github.githubassets.com/">
-      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/119435336/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTk0MzUzMzYsInMiOjEwMzE4MTAxNzgsImMiOjg1OTY0NDgzNywidCI6MTY3Mzc2Nzk0NH0=--07f6626a052a6ee42c9c40a0261477f573e85f846fa7373c82df55c6d388d811" data-refresh-url="/_alive" data-session-id="de6e0430df888491c1b5964836960a32c3230bb61c42c8c36a081875dc969237">
+      <link rel="shared-web-socket" href="wss://alive.github.com/_sockets/u/119435336/ws?session=eyJ2IjoiVjMiLCJ1IjoxMTk0MzUzMzYsInMiOjEwMzE4MTAxNzgsImMiOjI3NTk2NjE2NjYsInQiOjE2NzM3Njc5MzJ9--5e12f6c2fb5193be985f47a43696fb83be10387b29e30426335b1a380f4ecaab" data-refresh-url="/_alive" data-session-id="de6e0430df888491c1b5964836960a32c3230bb61c42c8c36a081875dc969237">
       <link rel="shared-web-socket-src" href="/assets-cdn/worker/socket-worker-b87581f5816c.js">
 
 
@@ -147,7 +147,7 @@
 
 
 
-    <link rel="canonical" href="https://github.com/andriyatiwary/Airline-Price-Prediction/blob/main/README.md" data-turbo-transient>
+    <link rel="canonical" href="https://github.com/andriyatiwary/Airline-Price-Prediction/blob/main/Data_Train.xlsx" data-turbo-transient>
   <meta name="turbo-body-classes" content="logged-in env-production page-responsive page-blob">
 
 
@@ -240,7 +240,7 @@
           spellcheck="false"
           autocomplete="off"
         >
-        <input type="hidden" value="KugM6psEBHVsAelqyc3XfN7vAnMdhksJdc1xX_wPQsf4I8ALWk_FvWb2a5hqIKMqrMBtiOlgxcDW7w_Z9FDtTw" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
+        <input type="hidden" value="7FFZ3492dO1HDlCK_ALmgCkYeKAfa2jQae8g7eAOcWM-mpU-Tj21JU350nhf75LWWzcXW-uN5hnKzV5r6FHe6w" data-csrf="true" class="js-data-jump-to-suggestions-path-csrf" />
         <input type="hidden" class="js-site-search-type-field" name="type" >
             <svg xmlns="http://www.w3.org/2000/svg" width="22" height="20" aria-hidden="true" class="mr-1 header-search-key-slash"><path fill="none" stroke="#979A9C" opacity=".4" d="M3.5.5h12c1.7 0 3 1.3 3 3v13c0 1.7-1.3 3-3 3h-12c-1.7 0-3-1.3-3-3v-13c0-1.7 1.3-3 3-3z"></path><path fill="#979A9C" d="M11.8 6L8 15.1h-.9L10.8 6h1z"></path></svg>
 
@@ -439,7 +439,7 @@
 
   <a class="js-selected-navigation-item Header-link mt-md-n3 mb-md-n3 py-2 py-md-3 mr-0 mr-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:explore" data-turbo="false" data-selected-links="/explore /trending /trending/developers /integrations /integrations/feature/code /integrations/feature/collaborate /integrations/feature/ship showcases showcases_search showcases_landing /explore" href="/explore">Explore</a>
 
-      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Shrutijain1234&quot;,&quot;originating_url&quot;:&quot;https://github.com/andriyatiwary/Airline-Price-Prediction/blob/main/README.md&quot;,&quot;user_id&quot;:119435336}}" data-hydro-click-hmac="50da23f129c7fd51cfacd2db6ca60a73cceb3c92a56eef17911dce802f941896" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
+      <a class="js-selected-navigation-item Header-link d-block d-md-none py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-ga-click="Header, click, Nav menu - item:Sponsors" data-hydro-click="{&quot;event_type&quot;:&quot;sponsors.button_click&quot;,&quot;payload&quot;:{&quot;button&quot;:&quot;HEADER_SPONSORS_DASHBOARD&quot;,&quot;sponsorable_login&quot;:&quot;Shrutijain1234&quot;,&quot;originating_url&quot;:&quot;https://github.com/andriyatiwary/Airline-Price-Prediction/blob/main/Data_Train.xlsx&quot;,&quot;user_id&quot;:119435336}}" data-hydro-click-hmac="8726f16502d3ef63ca41567916f36bc9d89405699a1315384ecd471ccafa9904" data-turbo="false" data-selected-links=" /sponsors/accounts" href="/sponsors/accounts">Sponsors</a>
 
     <a class="Header-link d-block d-md-none mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade" data-turbo="false" href="/settings/profile">Settings</a>
 
@@ -447,7 +447,7 @@
       <img class="avatar avatar-user" loading="lazy" decoding="async" src="https://avatars.githubusercontent.com/u/119435336?s=40&amp;v=4" width="20" height="20" alt="@Shrutijain1234" />
       Shrutijain1234
 </a>
-    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="ZRgAExFbTslynOQJbZcC5SIhUpwwgELPlvx1YxFn4i7LZ5UjuQXqeh_4Qx-nml49JwEtPFlcH35ksAlud4-Jdw" />
+    <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-turbo="false" action="/logout" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="8LAWnQ8FEVR4NPjih7nL-y9-zOS_UrQfEzo0a-nvqThez4Otp1u15xVQX_RNtJcjKl6zRNaO6a7hdkhmjwfCYQ" />
       <button
         type="submit"
         class="Header-link mr-0 mr-md-3 py-2 py-md-3 border-top border-md-top-0 border-white-fade d-md-none btn-link d-block width-full text-left"
@@ -482,7 +482,7 @@
     <div class="Header-item mr-0 mr-md-3 flex-order-1 flex-md-order-none">
         
 
-<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTE5NDM1MzM2IiwidCI6MTY3Mzc2Nzk0NX0=--c20a87f83d2c050bac3d9e02e1d91ef6b51e2171e2c6de6accd1f996655bee2b" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
+<notification-indicator data-channel="eyJjIjoibm90aWZpY2F0aW9uLWNoYW5nZWQ6MTE5NDM1MzM2IiwidCI6MTY3Mzc2NzkzMn0=--feabaccdaa968653d7b6f5d194d4cbbb7e6f353a24fe1007dc917f49892742ec" data-indicator-mode="none" data-tooltip-global="You have unread notifications" data-tooltip-unavailable="Notifications are unavailable at the moment." data-tooltip-none="You have no unread notifications" data-view-component="true" class="js-socket-channel">
   <a id="AppHeader-notifications-button" href="/notifications"
     class="Header-link notification-indicator position-relative tooltipped tooltipped-sw"
 
@@ -640,7 +640,7 @@
   <details-dialog class="command-palette-details-dialog d-flex flex-column flex-justify-center height-fit" aria-label="command palette">
     <command-palette
       class="command-palette color-bg-default rounded-3 border color-shadow-small"
-      return-to=/andriyatiwary/Airline-Price-Prediction/blob/main/README.md
+      return-to=/andriyatiwary/Airline-Price-Prediction/blob/main/Data_Train.xlsx
       user-id="119435336"
       activation-hotkey="Mod+k,Mod+Alt+k"
       command-mode-hotkey="Mod+Shift+k"
@@ -1607,7 +1607,7 @@
         data-action="toggle:notifications-list-subscription-form#detailsToggled"
       >
 
-        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:359194688,&quot;originating_url&quot;:&quot;https://github.com/andriyatiwary/Airline-Price-Prediction/blob/main/README.md&quot;,&quot;user_id&quot;:119435336}}" data-hydro-click-hmac="22723e9bb692eca29963adf89e366d77d7566c9bfda68290b1eb095d52a061e2" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
+        <summary data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;WATCH_BUTTON&quot;,&quot;repository_id&quot;:359194688,&quot;originating_url&quot;:&quot;https://github.com/andriyatiwary/Airline-Price-Prediction/blob/main/Data_Train.xlsx&quot;,&quot;user_id&quot;:119435336}}" data-hydro-click-hmac="c481dfa6402dc23931be33fc4c1fe39a66bd7f4e935330bcedf011b60737e4cd" data-ga-click="Repository, click Watch settings, action:blob#show" aria-label="Notification settings" data-view-component="true" class="btn-sm btn">    <span data-menu-button>
             <span
               hidden
               
@@ -1659,7 +1659,7 @@
             </header>
 
             <div class="SelectMenu-list">
-              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="RG4ThXyfkS_tNo3SVaVgH2l7LAMEX_BpX2xoz-31fnrR81v-9rjjP-x227svbSROPFZkou2vytMvO5ulQO-e5g" autocomplete="off" />
+              <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.form" data-action="submit:notifications-list-subscription-form#submitForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="6OWqfQdS1PiGbTghSL91QuFga44D9LNvHTlnG07dsUJ9eOIGjXWm6IctbkgydzETtE0jL-oEidVtbpRx48dR3g" autocomplete="off" />
 
                 <input type="hidden" name="repository_id" value="359194688">
 
@@ -1787,7 +1787,7 @@
           hidden
         >
           <div class="SelectMenu-modal notifications-component-dialog-modal overflow-visible">
-            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="GCKFEntqWMhWPJSzF_QfXe0ZPz66P_Z4o-k39U7WQHuNv81p8U0q2Fd8wtptPFsMuDR3n1PPzMLTvsSf48yg5w" autocomplete="off" />
+            <!-- '"` --><!-- </textarea></xmp> --></option></form><form data-target="notifications-list-subscription-form.customform" data-action="submit:notifications-list-subscription-form#submitCustomForm" data-turbo="false" action="/notifications/subscribe" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="GBU6_aKOUreMGKL-Wtqzln5k9zSSl-G7TH5AiK8Mm6KNiHKGKKkgp41Y9JcgEvfHK0m_lXtn2wE8KbPiAhZ7Pg" autocomplete="off" />
 
               <input type="hidden" name="repository_id" value="359194688">
 
@@ -1939,7 +1939,7 @@
   <li>
         <div data-view-component="true" class="d-flex">
         <div data-view-component="true" class="position-relative d-inline-block">
-    <a icon="repo-forked" id="fork-button" href="/andriyatiwary/Airline-Price-Prediction/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:359194688,&quot;originating_url&quot;:&quot;https://github.com/andriyatiwary/Airline-Price-Prediction/blob/main/README.md&quot;,&quot;user_id&quot;:119435336}}" data-hydro-click-hmac="5266b45bd756b1179f999fd0f843e6994dedf9d9ba2dfa5cf611a00ba7a01853" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
+    <a icon="repo-forked" id="fork-button" href="/andriyatiwary/Airline-Price-Prediction/fork" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FORK_BUTTON&quot;,&quot;repository_id&quot;:359194688,&quot;originating_url&quot;:&quot;https://github.com/andriyatiwary/Airline-Price-Prediction/blob/main/Data_Train.xlsx&quot;,&quot;user_id&quot;:119435336}}" data-hydro-click-hmac="b7fc8c0b1c7a79078229301370ed3397a169b971d83f1a7a8f00e54082081d31" data-ga-click="Repository, show fork modal, action:blob#show; text:Fork" data-view-component="true" class="btn-sm btn BtnGroup-item border-right-0">      <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-repo-forked mr-2">
     <path fill-rule="evenodd" d="M5 3.25a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm0 2.122a2.25 2.25 0 10-1.5 0v.878A2.25 2.25 0 005.75 8.5h1.5v2.128a2.251 2.251 0 101.5 0V8.5h1.5a2.25 2.25 0 002.25-2.25v-.878a2.25 2.25 0 10-1.5 0v.878a.75.75 0 01-.75.75h-4.5A.75.75 0 015 6.25v-.878zm3.75 7.378a.75.75 0 11-1.5 0 .75.75 0 011.5 0zm3-8.75a.75.75 0 100-1.5.75.75 0 000 1.5z"></path>
 </svg>Fork
           <span id="repo-network-counter" data-pjax-replace="true" data-turbo-replace="true" title="0" data-view-component="true" class="Counter">0</span>
@@ -1958,13 +1958,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-0bda66">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-4e68b9">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-0bda66"
+        id="filter-menu-4e68b9"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2006,10 +2006,10 @@
 
   <div data-view-component="true" class="js-toggler-container js-social-container starring-container d-flex">
     <div data-view-component="true" class="starred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/andriyatiwary/Airline-Price-Prediction/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="2PLPp4of2kUHwq85SiDyxE4TsCjRcLAMWBC-nsa8ujiVzk3MhHWv48n4jzWYLspwAKcE18dohRVF8Ty4gIAxEA" autocomplete="off" />
-          <input type="hidden" value="5uvlK9SqxSXq-rHEavyNvd8L8giE0uX6k4OkO3DdXHir12dA2sCwgyTAkci48rUJkb9G95LK0OOOYiYdNuHXUA" data-csrf="true" class="js-confirm-csrf-token" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto js-deferred-toggler-target" data-turbo="false" action="/andriyatiwary/Airline-Price-Prediction/unstar" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="Lm_uhJSin2jqaiTIM0BsOIXwlvsYfM5VtOr2-rdO6b5jU2zvmsjqziRQBMThTlSMy0QiBA5k-0ypC3Tc8XJilg" autocomplete="off" />
+          <input type="hidden" value="AjR1lJbFX5Mj6m4nepOukw6jevWQ7YV3NHpsahgKvJRPCPf_mK8qNe3QTiuonZYnQBfOCob1sG4pm-5MXjY3vA" data-csrf="true" class="js-confirm-csrf-token" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:359194688,&quot;originating_url&quot;:&quot;https://github.com/andriyatiwary/Airline-Price-Prediction/blob/main/README.md&quot;,&quot;user_id&quot;:119435336}}" data-hydro-click-hmac="b8ab4ec961d23f63dce23561c8c9c6655558ab02176a8d1a287ed49f5e1e67c9" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (1)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;UNSTAR_BUTTON&quot;,&quot;repository_id&quot;:359194688,&quot;originating_url&quot;:&quot;https://github.com/andriyatiwary/Airline-Price-Prediction/blob/main/Data_Train.xlsx&quot;,&quot;user_id&quot;:119435336}}" data-hydro-click-hmac="8c76c18c5ef998f381226b11016b19a0c10b54d16057dcb29e156f9d38ed2bc3" data-ga-click="Repository, click unstar button, action:blob#show; text:Unstar" aria-label="Unstar this repository (1)" type="submit" data-view-component="true" class="rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star-fill starred-button-icon d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Starred
@@ -2027,13 +2027,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-7f00d5">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-8e05c8">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-7f00d5"
+        id="filter-menu-8e05c8"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2054,9 +2054,9 @@
 </details>
 </div>
     <div data-view-component="true" class="unstarred BtnGroup flex-1">
-      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/andriyatiwary/Airline-Price-Prediction/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="cFdflegz5je55ClnhRFP5pY9pm6dXlTHxsw3orc2XgUP6oVlTOAVRhzo4bUB0283D0m335SEeu_0VydUnhDv-w" autocomplete="off" />
+      <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="js-social-form BtnGroup-parent flex-auto" data-turbo="false" action="/andriyatiwary/Airline-Price-Prediction/star" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="GxYRkmffx3TQnZVEnV6DhvBukUhe_uk59IElpjeHpHJkq8tiwww0BXWRXZYZnKNXaRqA-VckxxHGGjVQHqEVjA" autocomplete="off" />
         <input type="hidden" name="context" value="repository">
-          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:359194688,&quot;originating_url&quot;:&quot;https://github.com/andriyatiwary/Airline-Price-Prediction/blob/main/README.md&quot;,&quot;user_id&quot;:119435336}}" data-hydro-click-hmac="bd1e992b43f9bf23733e431c39203159220875097876c8b27ec35eed32db7ad2" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (1)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
+          <button data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;STAR_BUTTON&quot;,&quot;repository_id&quot;:359194688,&quot;originating_url&quot;:&quot;https://github.com/andriyatiwary/Airline-Price-Prediction/blob/main/Data_Train.xlsx&quot;,&quot;user_id&quot;:119435336}}" data-hydro-click-hmac="4eaf072833de444c9d6f87a0d6c9e1b37b3cfc289f6aa2f888dd3a82e1ae8e73" data-ga-click="Repository, click star button, action:blob#show; text:Star" aria-label="Star this repository (1)" type="submit" data-view-component="true" class="js-toggler-target rounded-left-2 btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-star d-inline-block mr-2">
     <path fill-rule="evenodd" d="M8 .25a.75.75 0 01.673.418l1.882 3.815 4.21.612a.75.75 0 01.416 1.279l-3.046 2.97.719 4.192a.75.75 0 01-1.088.791L8 12.347l-3.766 1.98a.75.75 0 01-1.088-.79l.72-4.194L.818 6.374a.75.75 0 01.416-1.28l4.21-.611L7.327.668A.75.75 0 018 .25zm0 2.445L6.615 5.5a.75.75 0 01-.564.41l-3.097.45 2.24 2.184a.75.75 0 01.216.664l-.528 3.084 2.769-1.456a.75.75 0 01.698 0l2.77 1.456-.53-3.084a.75.75 0 01.216-.664l2.24-2.183-3.096-.45a.75.75 0 01-.564-.41L8 2.694v.001z"></path>
 </svg><span data-view-component="true" class="d-inline">
             Star
@@ -2074,13 +2074,13 @@
       
 >
     <div class="SelectMenu-modal">
-        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-7f00d5">
+        <button class="SelectMenu-closeButton position-absolute right-0 m-2" type="button" aria-label="Close menu" data-toggle-for="details-8e05c8">
           <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-x">
     <path fill-rule="evenodd" d="M3.72 3.72a.75.75 0 011.06 0L8 6.94l3.22-3.22a.75.75 0 111.06 1.06L9.06 8l3.22 3.22a.75.75 0 11-1.06 1.06L8 9.06l-3.22 3.22a.75.75 0 01-1.06-1.06L6.94 8 3.72 4.78a.75.75 0 010-1.06z"></path>
 </svg>
         </button>
       <div
-        id="filter-menu-7f00d5"
+        id="filter-menu-8e05c8"
         class="d-flex flex-column flex-1 overflow-hidden"
 >
         <div
@@ -2267,7 +2267,7 @@
 
 
     
-<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/andriyatiwary/Airline-Price-Prediction/blob/890ed7908f8f4e51cadede363d69cc9da50acd9e/README.md">Permalink</a>
+<a class="d-none js-permalink-shortcut" data-hotkey="y" href="/andriyatiwary/Airline-Price-Prediction/blob/890ed7908f8f4e51cadede363d69cc9da50acd9e/Data_Train.xlsx">Permalink</a>
 
 <div class="d-flex flex-items-start flex-shrink-0 pb-3 flex-wrap flex-md-nowrap flex-justify-between flex-md-justify-start">
   
@@ -2275,7 +2275,7 @@
   <details
     class="js-branch-select-menu details-reset details-overlay mr-0 mb-0 "
     id="branch-select-menu"
-    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:359194688,&quot;originating_url&quot;:&quot;https://github.com/andriyatiwary/Airline-Price-Prediction/blob/main/README.md&quot;,&quot;user_id&quot;:119435336}}" data-hydro-click-hmac="4e386f17cd3c576699333037338fbfb479e29b2f99642f143df6b5e821e788b0">
+    data-hydro-click-payload="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;REFS_SELECTOR_MENU&quot;,&quot;repository_id&quot;:359194688,&quot;originating_url&quot;:&quot;https://github.com/andriyatiwary/Airline-Price-Prediction/blob/main/Data_Train.xlsx&quot;,&quot;user_id&quot;:119435336}}" data-hydro-click-hmac="e54258c2e4aae7407bd5679cdc11a4f5b548883c67283d67df8b357aead8497f">
     <summary class="btn css-truncate"
             data-hotkey="w"
             title="Switch branches or tags">
@@ -2356,7 +2356,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/andriyatiwary/Airline-Price-Prediction/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/andriyatiwary/Airline-Price-Prediction/blob/{{ urlEncodedRefName }}/Data_Train.xlsx" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2398,7 +2398,7 @@
               
 
 <template data-target="ref-selector.itemTemplate">
-  <a href="https://github.com/andriyatiwary/Airline-Price-Prediction/blob/{{ urlEncodedRefName }}/README.md" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
+  <a href="https://github.com/andriyatiwary/Airline-Price-Prediction/blob/{{ urlEncodedRefName }}/Data_Train.xlsx" class="SelectMenu-item" role="menuitemradio" rel="nofollow" aria-checked="{{ isCurrent }}" data-index="{{ index }}" >
     <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check SelectMenu-icon SelectMenu-icon--check">
     <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
 </svg>
@@ -2459,7 +2459,7 @@
 
 
   <h2 id="blob-path" class="breadcrumb flex-auto flex-self-center min-width-0 text-normal mx-2 width-full width-md-auto flex-order-1 flex-md-order-none mt-3 mt-md-0">
-    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/andriyatiwary/Airline-Price-Prediction"><span>Airline-Price-Prediction</span></a></span></span><span class="separator">/</span><strong class="final-path">README.md</strong>
+    <span class="js-repo-root text-bold"><span class="js-path-segment d-inline-block wb-break-all"><a data-turbo-frame="repo-content-turbo-frame" href="/andriyatiwary/Airline-Price-Prediction"><span>Airline-Price-Prediction</span></a></span></span><span class="separator">/</span><strong class="final-path">Data_Train.xlsx</strong>
   </h2>
     <a href="/andriyatiwary/Airline-Price-Prediction/find/main" data-pjax="" data-hotkey="t" data-view-component="true" class="btn mr-2 d-none d-md-block">    Go to file
 </a>
@@ -2470,7 +2470,7 @@
 </summary>
   <div data-view-component="true">      <ul class="dropdown-menu dropdown-menu-sw">
         <li class="d-block d-md-none">
-          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:359194688,&quot;originating_url&quot;:&quot;https://github.com/andriyatiwary/Airline-Price-Prediction/blob/main/README.md&quot;,&quot;user_id&quot;:119435336}}" data-hydro-click-hmac="2bd718d18c3dfd6e3e3ddbd31f7fa0924678ff00bfb957266020b95ac2c06b8f" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/andriyatiwary/Airline-Price-Prediction/find/main">
+          <a class="dropdown-item d-flex flex-items-baseline" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;FIND_FILE_BUTTON&quot;,&quot;repository_id&quot;:359194688,&quot;originating_url&quot;:&quot;https://github.com/andriyatiwary/Airline-Price-Prediction/blob/main/Data_Train.xlsx&quot;,&quot;user_id&quot;:119435336}}" data-hydro-click-hmac="183d540c182c14db82583b269f22809752744fced81acb10e90c15d6c59c4c30" data-ga-click="Repository, find file, location:repo overview" data-hotkey="t" href="/andriyatiwary/Airline-Price-Prediction/find/main">
             <span class="flex-auto">Go to file</span>
             <span class="text-small color-fg-muted" aria-hidden="true">T</span>
 </a>        </li>
@@ -2482,13 +2482,13 @@
 </button>        </li>
         <li class="dropdown-divider" role="none"></li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy path" value="Data_Train.xlsx" data-view-component="true" class="dropdown-item cursor-pointer">
     
             Copy path
 
 </clipboard-copy>        </li>
         <li>
-          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/andriyatiwary/Airline-Price-Prediction/blob/890ed7908f8f4e51cadede363d69cc9da50acd9e/README.md" data-view-component="true" class="dropdown-item cursor-pointer">
+          <clipboard-copy data-toggle-for="blob-more-options-details" aria-label="Copy permalink" value="https://github.com/andriyatiwary/Airline-Price-Prediction/blob/890ed7908f8f4e51cadede363d69cc9da50acd9e/Data_Train.xlsx" data-view-component="true" class="dropdown-item cursor-pointer">
     
             <span class="d-flex flex-items-baseline">
               <span class="flex-auto">Copy permalink</span>
@@ -2520,7 +2520,7 @@
     <include-fragment src="/andriyatiwary/Airline-Price-Prediction/spoofed_commit_check/890ed7908f8f4e51cadede363d69cc9da50acd9e" data-test-selector="spoofed-commit-check"></include-fragment>
 
     <div class="Box d-flex flex-column flex-shrink-0 mb-3">
-  <include-fragment src="/andriyatiwary/Airline-Price-Prediction/contributors/main/README.md" class="commit-loader">
+  <include-fragment src="/andriyatiwary/Airline-Price-Prediction/contributors/main/Data_Train.xlsx" class="commit-loader">
     <div class="Box-header d-flex flex-items-center">
       <div class="Skeleton avatar avatar-user flex-shrink-0 ml-n1 mr-n1 mt-n1 mb-n1" style="width:24px;height:24px;"></div>
       <div class="Skeleton Skeleton--text col-5 ml-2">&nbsp;</div>
@@ -2554,88 +2554,18 @@
 
   <div class="text-mono f6 flex-auto pr-3 flex-order-2 flex-md-order-1">
 
-      16 lines (15 sloc)
-      <span class="file-info-divider"></span>
-    1.16 KB
+    518 KB
   </div>
 
   <div class="d-flex py-1 py-md-0 flex-auto flex-order-1 flex-md-order-2 flex-sm-grow-0 flex-justify-between hide-sm hide-md">
-        <div class="BtnGroup">
-      <a href="/andriyatiwary/Airline-Price-Prediction/blob/main/README.md?plain=1" data-permalink-href="/andriyatiwary/Airline-Price-Prediction/blob/890ed7908f8f4e51cadede363d69cc9da50acd9e/README.md?plain=1" aria-label="Display the source blob" data-view-component="true" class="source tooltipped tooltipped tooltipped-n  js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-code">
-    <path fill-rule="evenodd" d="M4.72 3.22a.75.75 0 011.06 1.06L2.06 8l3.72 3.72a.75.75 0 11-1.06 1.06L.47 8.53a.75.75 0 010-1.06l4.25-4.25zm6.56 0a.75.75 0 10-1.06 1.06L13.94 8l-3.72 3.72a.75.75 0 101.06 1.06l4.25-4.25a.75.75 0 000-1.06l-4.25-4.25z"></path>
-</svg>
-</a>      <a href="/andriyatiwary/Airline-Price-Prediction/blob/main/README.md" data-permalink-href="/andriyatiwary/Airline-Price-Prediction/blob/890ed7908f8f4e51cadede363d69cc9da50acd9e/README.md" aria-label="Display the rendered blob" data-view-component="true" class="rendered tooltipped tooltipped tooltipped-n selected js-permalink-replaceable-link btn-sm btn BtnGroup-item">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-file">
-    <path fill-rule="evenodd" d="M3.75 1.5a.25.25 0 00-.25.25v12.5c0 .138.112.25.25.25h9.5a.25.25 0 00.25-.25V6h-2.75A1.75 1.75 0 019 4.25V1.5H3.75zm6.75.062V4.25c0 .138.112.25.25.25h2.688a.252.252 0 00-.011-.013l-2.914-2.914a.272.272 0 00-.013-.011zM2 1.75C2 .784 2.784 0 3.75 0h6.586c.464 0 .909.184 1.237.513l2.914 2.914c.329.328.513.773.513 1.237v9.586A1.75 1.75 0 0113.25 16h-9.5A1.75 1.75 0 012 14.25V1.75z"></path>
-</svg>
-</a>  </div>
-
+      
 
     <div class="BtnGroup">
-        <a data-permalink-href="/andriyatiwary/Airline-Price-Prediction/raw/890ed7908f8f4e51cadede363d69cc9da50acd9e/README.md" href="/andriyatiwary/Airline-Price-Prediction/raw/main/README.md" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Raw
-</a>          <a data-permalink-href="/andriyatiwary/Airline-Price-Prediction/blame/890ed7908f8f4e51cadede363d69cc9da50acd9e/README.md" href="/andriyatiwary/Airline-Price-Prediction/blame/main/README.md" data-hotkey="b" data-view-component="true" class="js-update-url-with-hash js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Blame
+        <a data-permalink-href="/andriyatiwary/Airline-Price-Prediction/raw/890ed7908f8f4e51cadede363d69cc9da50acd9e/Data_Train.xlsx" href="/andriyatiwary/Airline-Price-Prediction/raw/main/Data_Train.xlsx" id="raw-url" data-view-component="true" class="js-permalink-replaceable-link btn-sm btn BtnGroup-item">    Download
 </a>    </div>
 
     <div class="d-flex">
-        
-<div class="ml-1" data-test-selector="edit-dropdown-menu-component">
-  <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="BtnGroup-parent js-update-url-with-hash " data-turbo="false" action="/andriyatiwary/Airline-Price-Prediction/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="iSgxRUGS_mW3xTcU3bKLNnjvNfb5pxE7i8g7J01Ac7j9xpFYIRwLDlWdLNKdv1SSBwWSGlw6zjuLvnznZwAJVQ" autocomplete="off" />
-      <button title="Fork this repository and edit the file" data-hotkey="e" data-disable-with="" data-test-selector="edit-icon-button" type="submit" data-view-component="true" class="btn-sm BtnGroup-item btn">    <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-pencil">
-    <path fill-rule="evenodd" d="M11.013 1.427a1.75 1.75 0 012.474 0l1.086 1.086a1.75 1.75 0 010 2.474l-8.61 8.61c-.21.21-.47.364-.756.445l-3.251.93a.75.75 0 01-.927-.928l.929-3.25a1.75 1.75 0 01.445-.758l8.61-8.61zm1.414 1.06a.25.25 0 00-.354 0L10.811 3.75l1.439 1.44 1.263-1.263a.25.25 0 000-.354l-1.086-1.086zM11.189 6.25L9.75 4.81l-6.286 6.287a.25.25 0 00-.064.108l-.558 1.953 1.953-.558a.249.249 0 00.108-.064l6.286-6.286z"></path>
-</svg>
-</button></form>
-  <details class="details-reset details-overlay select-menu BtnGroup-parent d-inline-block position-relative">
-      <summary data-disable-invalid="" data-disable-with="" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.more_options_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:359194688,&quot;actor_id&quot;:119435336,&quot;github_dev_enabled&quot;:true,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" aria-label="Select additional options" data-view-component="true" class="js-blob-dropdown-click select-menu-button btn-sm btn BtnGroup-item float-none px-2">
-</summary>    <div class="SelectMenu right-0">
-      <div class="SelectMenu-modal width-full">
-        <div class="SelectMenu-list SelectMenu-list--borderless py-2">
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="SelectMenu-item js-update-url-with-hash " data-turbo="false" action="/andriyatiwary/Airline-Price-Prediction/edit/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="sliOI6kCVfHjWvIEbdTF4hSQVmX4siCMVp78i3IWyRfGti4-yYygmgEC6cIt2RpGa3rxiV0v_4xW6LtLWFaz-g" autocomplete="off" />
-              <button title="Fork this repository and edit the file" data-test-selector="edit-text-button" type="submit" data-view-component="true" class="btn-invisible btn width-full d-flex flex-justify-between color-fg-default text-normal p-0">    <div class="mr-5">Edit this file</div>
-              <div class="color-fg-muted">E</div>
-</button></form>
-            <a aria-label="Open this file in github.dev" data-test-selector="github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:359194688,&quot;actor_id&quot;:119435336,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:false}}" href="https://github.dev/" data-view-component="true" class="SelectMenu-item js-github-dev-shortcut js-blob-dropdown-click width-full d-flex flex-justify-between color-fg-default f5 text-normal">
-              <div class="mr-5 no-wrap">Open in github.dev</div>
-              <div class="color-fg-muted">.</div>
-</a>
-            <a data-platforms="windows,mac" data-test-selector="github-desktop-link" aria-label="Open this file in GitHub Desktop" href="https://desktop.github.com" data-view-component="true" class="SelectMenu-item no-wrap js-remove-unless-platform width-full text-normal color-fg-default f5">
-              Open in GitHub Desktop
-</a>        </div>
-      </div>
-    </div>
-  </details>
-</div>
-
-
-        
-<div data-test-selector="remote-clipboard-copy">
-  <remote-clipboard-copy class="d-inline-block btn-octicon" style="height: 26px" data-src="/andriyatiwary/Airline-Price-Prediction/raw/890ed7908f8f4e51cadede363d69cc9da50acd9e/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
-  
-
-  <span data-target="remote-clipboard-copy.idle">      <span class="tooltipped tooltipped-nw cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:359194688,&quot;originating_url&quot;:&quot;https://github.com/andriyatiwary/Airline-Price-Prediction/blob/main/README.md&quot;,&quot;user_id&quot;:119435336}}" data-hydro-click-hmac="340ae58259477e91cf5cc90a3916ccbc5f6e2cc5e7dd99715d1a8b983e5f2197" aria-label="Copy raw contents">
-        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-copy">
-    <path fill-rule="evenodd" d="M0 6.75C0 5.784.784 5 1.75 5h1.5a.75.75 0 010 1.5h-1.5a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-1.5a.75.75 0 011.5 0v1.5A1.75 1.75 0 019.25 16h-7.5A1.75 1.75 0 010 14.25v-7.5z"></path><path fill-rule="evenodd" d="M5 1.75C5 .784 5.784 0 6.75 0h7.5C15.216 0 16 .784 16 1.75v7.5A1.75 1.75 0 0114.25 11h-7.5A1.75 1.75 0 015 9.25v-7.5zm1.75-.25a.25.25 0 00-.25.25v7.5c0 .138.112.25.25.25h7.5a.25.25 0 00.25-.25v-7.5a.25.25 0 00-.25-.25h-7.5z"></path>
-</svg>
-</span></span>
-  <span data-target="remote-clipboard-copy.fetching" hidden="hidden">      <svg style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg>
-</span>
-  <span data-target="remote-clipboard-copy.success" hidden="hidden">      <span class="tooltipped tooltipped-nw" aria-label="Copied!">
-        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check color-fg-success">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-      </span>
-</span>
-  <span data-target="remote-clipboard-copy.error" hidden="hidden">      <span class="tooltipped tooltipped-nw" aria-label="Something went wrong. Try again.">
-        <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert color-fg-attention">
-    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
-</svg>
-      </span>
-</span>
-</remote-clipboard-copy></div>
-
-
-          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/andriyatiwary/Airline-Price-Prediction/delete/main/README.md" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="7MUgEsdxfMg6OPHrrytgpcKi7j6Sq12WeO-VxB0PLUWHCxFr6x_Xvwf9NjoXHGDJ4fx82CNNFGlHwwc5ozL3Tw" />
+          <!-- '"` --><!-- </textarea></xmp> --></option></form><form class="inline-form" data-turbo="false" action="/andriyatiwary/Airline-Price-Prediction/delete/main/Data_Train.xlsx" accept-charset="UTF-8" method="post"><input type="hidden" name="authenticity_token" value="unaXSB1nIDPWkVPFtPNO06zcZlBnF4NqJ10Ia4QTtcJXCQf9YJrpf9WORmVGPwS54siPxW0n-kmJfyvRRpFytA" />
             <button class="btn-octicon btn-octicon-danger tooltipped tooltipped-nw" type="submit"
               aria-label="Fork this repository and delete the file" data-disable-with>
               <svg aria-hidden="true" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-trash">
@@ -2668,78 +2598,27 @@
                 </a>
             </li>
           <li>
-            <a class="dropdown-item" href="/andriyatiwary/Airline-Price-Prediction/raw/main/README.md">
-              View raw
+            <a class="dropdown-item" href="/andriyatiwary/Airline-Price-Prediction/raw/main/Data_Train.xlsx">
+              Download
             </a>
           </li>
-            <li>
-              <remote-clipboard-copy class="dropdown-item" data-src="/andriyatiwary/Airline-Price-Prediction/raw/main/README.md" data-action="click:remote-clipboard-copy#remoteCopy">
-  
 
-  <span data-target="remote-clipboard-copy.idle">                  <span class="cursor-pointer" data-hydro-click="{&quot;event_type&quot;:&quot;repository.click&quot;,&quot;payload&quot;:{&quot;target&quot;:&quot;COPY_RAW_CONTENTS_BUTTON&quot;,&quot;repository_id&quot;:359194688,&quot;originating_url&quot;:&quot;https://github.com/andriyatiwary/Airline-Price-Prediction/blob/main/README.md&quot;,&quot;user_id&quot;:119435336}}" data-hydro-click-hmac="340ae58259477e91cf5cc90a3916ccbc5f6e2cc5e7dd99715d1a8b983e5f2197">
-                    Copy raw contents
-</span></span>
-  <span data-target="remote-clipboard-copy.fetching" hidden="hidden">                  Copy raw contents
-                  <span class="d-inline-block position-relative" style="top: 3px">
-                    <svg aria-label="fetching contents…" style="box-sizing: content-box; color: var(--color-icon-primary);" width="16" height="16" viewBox="0 0 16 16" fill="none" data-view-component="true" class="anim-rotate">
-  <circle cx="8" cy="8" r="7" stroke="currentColor" stroke-opacity="0.25" stroke-width="2" vector-effect="non-scaling-stroke" />
-  <path d="M15 8a7.002 7.002 0 00-7-7" stroke="currentColor" stroke-width="2" stroke-linecap="round" vector-effect="non-scaling-stroke" />
-</svg>
-                  </span>
-</span>
-  <span data-target="remote-clipboard-copy.success" hidden="hidden">                  Copy raw contents
-                  <svg aria-label="Copied!" role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-check color-fg-success">
-    <path fill-rule="evenodd" d="M13.78 4.22a.75.75 0 010 1.06l-7.25 7.25a.75.75 0 01-1.06 0L2.22 9.28a.75.75 0 011.06-1.06L6 10.94l6.72-6.72a.75.75 0 011.06 0z"></path>
-</svg>
-</span>
-  <span data-target="remote-clipboard-copy.error" hidden="hidden">                  Copy raw contents
-                  <svg aria-label="Something went wrong. Try again." role="img" height="16" viewBox="0 0 16 16" version="1.1" width="16" data-view-component="true" class="octicon octicon-alert color-fg-attention">
-    <path fill-rule="evenodd" d="M8.22 1.754a.25.25 0 00-.44 0L1.698 13.132a.25.25 0 00.22.368h12.164a.25.25 0 00.22-.368L8.22 1.754zm-1.763-.707c.659-1.234 2.427-1.234 3.086 0l6.082 11.378A1.75 1.75 0 0114.082 15H1.918a1.75 1.75 0 01-1.543-2.575L6.457 1.047zM9 11a1 1 0 11-2 0 1 1 0 012 0zm-.25-5.25a.75.75 0 00-1.5 0v2.5a.75.75 0 001.5 0v-2.5z"></path>
-</svg>
-</span>
-</remote-clipboard-copy>            </li>
             <li>
-              <a class="dropdown-item" href="/andriyatiwary/Airline-Price-Prediction/blame/main/README.md">
-                View blame
-              </a>
+              <a class="dropdown-item menu-item-danger" href="/andriyatiwary/Airline-Price-Prediction/delete/main/Data_Train.xlsx">Delete file</a>
             </li>
-
-              <li class="dropdown-divider" role="none"></li>
-              <li>
-                <a class="dropdown-item" href="/andriyatiwary/Airline-Price-Prediction/edit/main/README.md">Edit file</a>
-              </li>
-                <li>
-                  <a class="dropdown-item js-github-dev-shortcut js-blob-dropdown-click" data-test-selector="small-screen-github-dev-link" data-dropdown-tracking="{&quot;type&quot;:&quot;blob_edit_dropdown.dev_link_click&quot;,&quot;context&quot;:{&quot;repository_id&quot;:359194688,&quot;actor_id&quot;:119435336,&quot;edit_enabled&quot;:true,&quot;small_screen&quot;:true}}" href="https://github.dev/">Open with github.dev</a>
-                </li>
-              <li>
-                <a class="dropdown-item menu-item-danger" href="/andriyatiwary/Airline-Price-Prediction/delete/main/README.md">Delete file</a>
-              </li>
         </ul>
       </details>
     </div>
 </div>
 
 
-        <div id="readme" class="Box-body readme blob js-code-block-container p-5 p-xl-6 gist-border-0">
-    <article class="markdown-body entry-content container-lg" itemprop="text"><h1 dir="auto"><a id="user-content-airline-price-prediction" class="anchor" aria-hidden="true" href="#airline-price-prediction"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path fill-rule="evenodd" d="M7.775 3.275a.75.75 0 001.06 1.06l1.25-1.25a2 2 0 112.83 2.83l-2.5 2.5a2 2 0 01-2.83 0 .75.75 0 00-1.06 1.06 3.5 3.5 0 004.95 0l2.5-2.5a3.5 3.5 0 00-4.95-4.95l-1.25 1.25zm-4.69 9.64a2 2 0 010-2.83l2.5-2.5a2 2 0 012.83 0 .75.75 0 001.06-1.06 3.5 3.5 0 00-4.95 0l-2.5 2.5a3.5 3.5 0 004.95 4.95l1.25-1.25a.75.75 0 00-1.06-1.06l-1.25 1.25a2 2 0 01-2.83 0z"></path></svg></a>Airline-Price-Prediction</h1>
-<ol dir="auto">
-<li>importing libraries and train dataset</li>
-<li>dropping rows with missing values (since there were only 2/10683)</li>
-<li>since ML model understands only integer values therefore coverting columns with datatype object into integers
-a) from journey date-date,day of month was extracted
-b) arrival,departure time was converted to datetime stamp and hour,min was extracted
-c) the other columns with object datatype were considered as categorical data &amp; dealt using onehotencoder &amp; labelencoder</li>
-<li>Outliers were detected using boxplot &amp; distribution plot and replaced by median</li>
-<li>dependent variables were put in x and target variable (price) in y</li>
-<li>feature selection was done and column with 0 importance was dropped from x dataframe</li>
-<li>train dataset was split into 80%, 20% train and test set respectively</li>
-<li>function was written to pass with different models and print their r^2, mae, mse, rmse</li>
-<li>On comparing r^2 of various models random forest gave max accuracy of 81%</li>
-<li>cross validation was then performed using randomized search and model was refitted with best paramters</li>
-<li>final accuracy achieved on train data after performing cross validation was 86%</li>
-</ol>
-</article>
-  </div>
+      
+    <div itemprop="text" class="Box-body p-0 blob-wrapper data type-text  gist-border-0">
+
+        <div class="text-center p-3" data-hpc>
+            <a href="/andriyatiwary/Airline-Price-Prediction/blob/main/Data_Train.xlsx?raw=true">View raw</a>
+        </div>
+    </div>
 
     </div>
 
